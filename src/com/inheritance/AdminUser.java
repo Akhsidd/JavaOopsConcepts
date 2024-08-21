@@ -1,4 +1,4 @@
-package inheritance;
+package com.inheritance;
 
 public class AdminUser extends DevloperUser{
 
